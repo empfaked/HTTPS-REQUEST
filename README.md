@@ -8,6 +8,6 @@ npm i request
 npm i zlib 
 npm i https-proxy-agent
 ```
-> Lauch:
+> Launch Script:
 > 
 ``` node HTTPS-REQUEST.js url time```
