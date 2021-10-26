@@ -1,3 +1,4 @@
 # HTTPS-SPAM
 public script for just protection dont bypass
-п
+node HTTPS-REQUEST.js url time
+need: request, zlib, https-proxy-agent
